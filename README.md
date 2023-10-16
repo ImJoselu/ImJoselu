@@ -12,7 +12,7 @@
         <br>
         <p>
             <strong>
-                I am a 20-year-old young man passionate about programming and web development, with a higher degree in Web Application Development that supports my academic training. My main goal is to gain work experience in this exciting field.<br><br>
+                I am a 20-year-old young man passionate about programming and web development, with a higher degree in Web Application Development that supports my academic training. My main goal is to gain work experience in this exciting field. I live in Spain,                  more specifically in Valencia, but I can move to Mallorca immediately, in addition to being able to work both in person and remotely.<br><br>
                 I specialize in Java and have experience working with PHP. Good in algorithms, data structures, database systems, object-oriented programming, design patterns and problem-solving skills.<br><br>
                 I am passionate about learning, all Back-End Technologies and Web 3.0 among others<br><br>
                 Self-taught and quick to learn, motivated and sociable to start a new stage.
@@ -36,6 +36,10 @@
 ![](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+
 
 
 
