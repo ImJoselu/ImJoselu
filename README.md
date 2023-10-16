@@ -12,10 +12,10 @@
         <br>
         <p>
             <strong>
-                Computer Science Student, Back-End Engineer, Problem Solver, Freelancer, and Open-Source Enthusiast.<br><br>
-                I specialize in .NET Core and Microsoft SQL Server and I have experience working with Angular. Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.<br><br>
-                I am passionate about learning .NET, all Back-End Technologies, Web 3, Blockchain, Linux, Virtualization, Cloud Computing, and DevOps.<br><br>
-                Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
+                I am a 20-year-old young man passionate about programming and web development, with a higher degree in Web Application Development that supports my academic training. My main goal is to gain work experience in this exciting field.<br><br>
+                I specialize in Java and have experience working with PHP. Good in algorithms, data structures, database systems, object-oriented programming, design patterns and problem-solving skills.<br><br>
+                I am passionate about learning, all Back-End Technologies and Web 3.0 among others<br><br>
+                Self-taught and quick to learn, motivated and sociable to start a new stage.
             </strong>
         </p>
         <ul>
@@ -27,26 +27,6 @@
             <li>😄 <b>Fun fact</b>: I love cars (🚗), coding (💻), and traveling (🌍).</li>
         </ul>
     </div>
-    <div align=center>
-        <h1>Contribution Activity</h1>
-        <img src="https://github-readme-stats.vercel.app/api?username=ahmedfathydev&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
-        <br>
-        <!--
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedfathydev&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
-        <br>
-        -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedFathyDev&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
-        <br>
-        <br>
-    </div>
-    <div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
-        <p>Loading</p>
-    </div>
-</div>
-
 ------
 
-Credit: [Ahmed Fathy](https://github.com/AhmedFathyDev)
-
-Last edited on: 31/01/2022
+Credit: Jose Luis Tórtola Cervera
