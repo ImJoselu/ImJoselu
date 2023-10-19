@@ -20,7 +20,8 @@
         </p>
         <ul>
             <li>🌱 <b>I am currently learning on my own</b>: I have just studied Web Application Development.</li>
-            <li>🎯 <b>I am currently focusing on</b>: ⭐️ <a href="https://imjoselu.github.io/Portfolio/">my web portfolio</a> 🤩.</li>
+            <li>🎯 <b>I am currently focusing on</b>: ⭐️ comming soon-> 🤩.</li>
+            <li>🎈 <b>I have a portfolio made with great love</b>: ⭐️ <a href="https://imjoselu.github.io/PortfolioWebDeveloper/">my web portfolio</a> 🧨.</li>
             <li>🤔 <b>I am currently open for</b>: a new job opportunity, <a href="https://www.canva.com/design/DAFriXOwd90/bL780IttZ4nGzyfpSjJxoA/view?utm_content=DAFriXOwd90&utm_campaign=designshare&utm_medium= link&utm_source=publishsharelink">LINK TO MY CURRICULUM</a >.</li>
             <li>💬 <b>Ask me about anything</b>: jltortolacer@gmail.com.</li>
             <li>📫 <b>How to contact me</b>: Follow me from the links above 👆, in addition to following me here.</li>
