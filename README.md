@@ -12,7 +12,7 @@
         <br>
         <p>
             <strong>
-                I am a 21-year-old young man passionate about programming and web development, with a higher degree in Web Application Development that supports my academic training. My main objective is to gain experience and learn more every day in this exciting field. I live in Spain, more specifically in Valencia, but I can move to Mallorca immediately, in addition to being able to work both in person and remotely.<br><br>
+                I am a 23-year-old young man passionate about programming and web development, with a higher degree in Web Application Development that supports my academic training. My main objective is to gain experience and learn more every day in this exciting field. I live in Spain, more specifically in Valencia, but I can move to Mallorca immediately, in addition to being able to work both in person and remotely.<br><br>
                I specialize in Java and have experience working with PHP and Angular. Although I am open to learning more languages ​​and new ways of programming.<br><br>
                  I consider myself very self-taught and quick to learn, motivated and sociable to develop as a programmer and as a person.
             </strong>
