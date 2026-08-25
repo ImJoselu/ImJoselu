@@ -21,7 +21,7 @@
             <li>🌱 <b>I am currently working at laberit</b>: I have Web Application Development superior degree.</li>
             <li>🎯 <b>I am currently focusing on</b>: ⭐️ Myself.</li>
             <li>🎈 <b>I have a portfolio made with great love</b>: ⭐️ <a href="https://imjoselu.github.io/PortfolioWebDeveloper/">my web portfolio</a> 🧨.</li>
-            <li>🤔 <b>Here you can take a more detailed look, <a href="https://www.canva.com/design/DAFriXOwd90/bL780IttZ4nGzyfpSjJxoA/view?utm_content=DAFriXOwd90&utm_campaign=designshare&utm_medium= link&utm_source=publishsharelink">LINK TO MY CURRICULUM</a >.</li>
+            <li>🤔 <b>Here you can take a more detailed look, <a href="[https://www.canva.com/design/DAFriXOwd90/bL780IttZ4nGzyfpSjJxoA/view?utm_content=DAFriXOwd90&utm_campaign=designshare&utm_medium= link&utm_source=publishsharelink](https://canva.link/35lq2r08gnpfep8)">LINK TO MY CURRICULUM</a >.</li>
             <li>💬 <b>Ask me about anything</b>: jltortolacer@gmail.com.</li>
             <li>📫 <b>How to contact me</b>: E-Mail 👆, in addition to following me here.</li>
             <li>😄 <b>Fun fact</b>: I love sports (⚽), coding (💻), and traveling (🌍).</li>
