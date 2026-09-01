@@ -20,6 +20,7 @@
         <ul>
             <li>🌱 <b>I am currently working at laberit</b>: I have Web Application Development superior degree.</li>
             <li>🎈 <b>I have a portfolio</b>: ⭐️ <a href="https://imjoselu.github.io/PortfolioWebDeveloper/">my web portfolio</a> 🧨.</li>
+            <li>⚡ <b>What am I building?</b>: <a href="https://github.com/ImJoselu?tab=repositories">Explore my projects</a> and follow my journey as a developer.</li>
             <li>💬 <b>Ask me about anything</b>: jltortolacer@gmail.com.</li>
             <li>📫 <b>How to contact me</b>: E-Mail 👆, in addition to following me here.</li>
             <li>😄 <b>Fun fact</b>: I love sports (⚽), coding (💻), and traveling (🌍).</li>
